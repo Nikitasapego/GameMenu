@@ -1,6 +1,7 @@
 # GameMenu
 
 Вёрстка страниц игрового [меню](https://nikitasapego.github.io/GameMenu/)
+
 #html #css
 
    - Имеется адаптив до 320px;
